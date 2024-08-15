@@ -1,3 +1,13 @@
+# Created Drag and Drop Features in React Js
+Created drag and drop features in react js using react flow library.
+
+## Features
+
+- User can add card with some text and only half of the text displayed and open a detailed text of the card in a popup by clicking on show more. 
+- User can connect Card with the other using arrow and able to drag and drop card anywhere in the canvas and also can adjust the size of the card. 
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
